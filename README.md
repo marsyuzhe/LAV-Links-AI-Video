@@ -1,7 +1,7 @@
 # 🚀 AI Commerce Video Agent
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%">
+  <img src="./docs/banner.png" width="100%">
 </p>
 
 <p align="center">
