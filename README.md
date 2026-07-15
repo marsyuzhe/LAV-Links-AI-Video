@@ -708,11 +708,6 @@ Our goal is to create an intelligent AI workforce for global commerce.
 
 ---
 
-# 📮 Contact | 联系方式
+# 📮 暂时只是展示，具体流程等更全面版后会开源。
 
 
-
-AI Commerce Video Agent
-
-
-AI + Commerce + Automation
