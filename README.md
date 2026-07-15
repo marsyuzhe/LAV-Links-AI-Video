@@ -494,55 +494,6 @@ Including:
 
 
 
----
-
-# 🔄 Workflow | 工作流程
-
-
-
-
-Product Image
-
-商品图片
-
-    ↓
-
-AI Product Understanding
-
-AI商品理解
-
-    ↓
-
-Marketing Strategy
-
-营销策略
-
-    ↓
-
-Script Generation
-
-脚本生成
-
-    ↓
-
-Scene Planning
-
-场景规划
-
-    ↓
-
-AI Video Generation
-
-AI视频生成
-
-    ↓
-
-Marketing Asset Output
-
-营销素材输出
-
-
-
 
 ---
 
