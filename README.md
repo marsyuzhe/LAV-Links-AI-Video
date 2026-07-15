@@ -58,32 +58,6 @@ Including:
 
 
 
-Building an intelligent pipeline:
-
-构建智能生产链路：
-
-
-
-Product
-商品
-
-↓
-
-Content
-内容
-
-↓
-
-Video
-视频
-
-↓
-
-Global Commerce
-全球营销
-
-
-
 
 ---
 
@@ -93,64 +67,6 @@ Global Commerce
 <p align="center">
 <img src="./docs/architecture.png" width="90%">
 </p>
-
-
-
-## Architecture Flow | 架构流程
-
-
-
-
-User Input
-用户输入
-
-    │
-
-    ▼
-
-Task Management
-任务管理系统
-
-    │
-
-    ▼
-
-AI Agent Layer
-AI Agent 智能层
-
-    │
-
-┌──────┼────────┐
-
-▼ ▼ ▼
-
-Product Agent Script Agent Scene Agent
-
-商品分析Agent 脚本生成Agent 场景规划Agent
-
-    │
-
-    ▼
-
-Image / Video Generation
-
-图片与视频生成
-
-    │
-
-    ▼
-
-Asset Management
-
-素材管理
-
-    │
-
-    ▼
-
-Marketing Content Output
-
-营销内容输出
 
 
 
@@ -193,60 +109,6 @@ Features:
 - AI Video Generation  
   AI视频生成
 
-
-
----
-
-# 🧠 Multi-Agent Workflow | 多智能体工作流
-
-
-
-Multiple AI Agents cooperate to complete the entire content production process.
-
-多个 AI Agent 协同完成完整内容生产流程。
-
-
-
-
-Product Agent
-
-商品分析Agent
-
-    ↓
-
-Marketing Agent
-
-营销策略Agent
-
-    ↓
-
-Script Agent
-
-脚本生成Agent
-
-    ↓
-
-Scene Agent
-
-场景规划Agent
-
-    ↓
-
-Video Agent
-
-视频生成Agent
-
-    ↓
-
-Asset Agent
-
-素材管理Agent
-
-
-
-From product input to final marketing content.
-
-实现从商品输入到营销内容输出的自动化流程。
 
 
 
