@@ -433,43 +433,6 @@ Including:
 
 ---
 
-# 🛠 Technology Stack | 技术架构
-
-
-
-## Frontend | 前端
-
-
-- React
-
-- TypeScript
-
-- TailwindCSS
-
-
-
-## Backend | 后端
-
-
-- Python
-
-- FastAPI
-
-- MySQL
-
-- Redis
-
-
-
-## Workflow Automation | 自动化流程
-
-
-- n8n
-
-- AI Workflow Engine
-
-
-
 ## AI Infrastructure | AI基础设施
 
 
